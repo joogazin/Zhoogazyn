@@ -8,9 +8,9 @@ def greet(variable)
 	>  greet("Azamat")
 	=> "Hello, Azamat!"
 =end
-	return ("Hello, #{variable}")
+	return ("Hello, #{variable} u r awesome")
 end
-
+puts greet("Ariet!")
 
 def hello
 =begin
